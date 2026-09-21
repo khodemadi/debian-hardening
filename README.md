@@ -47,8 +47,8 @@ The script expects:
 Clone or copy the script:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository>
+git clone https://github.com/khodemadi/debian-hardening
+cd debian-hardening
 ```
 
 Make it executable:
@@ -434,4 +434,4 @@ MIT License.
 
 Copyright (c) 2026
 
-See the `LICENSE` file for the full license text.
+See the [LICENSE](LICENSE) file for the full license text.
