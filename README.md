@@ -37,7 +37,7 @@ Run the script as `root` or through `sudo`.
 
 The script expects:
 
-- Bash
+- `Bash`
 - `apt`
 - `systemd`
 - A Debian-style `/etc/os-release`
